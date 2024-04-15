@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 .fundo{
@@ -36,4 +37,15 @@
 
 .botao:hover{
     background-color: rgb(156, 150, 150);
+}
+
+#resultado{
+    width: 207px;
+    background-color: white;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
 }
